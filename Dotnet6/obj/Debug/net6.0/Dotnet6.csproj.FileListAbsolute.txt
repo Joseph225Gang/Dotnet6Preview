@@ -1,0 +1,15 @@
+D:\Dotnet6\Dotnet6\bin\Debug\net6.0\Dotnet6.exe
+D:\Dotnet6\Dotnet6\bin\Debug\net6.0\Dotnet6.deps.json
+D:\Dotnet6\Dotnet6\bin\Debug\net6.0\Dotnet6.runtimeconfig.json
+D:\Dotnet6\Dotnet6\bin\Debug\net6.0\Dotnet6.dll
+D:\Dotnet6\Dotnet6\bin\Debug\net6.0\ref\Dotnet6.dll
+D:\Dotnet6\Dotnet6\bin\Debug\net6.0\Dotnet6.pdb
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\Dotnet6.csproj.AssemblyReference.cache
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\Dotnet6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\Dotnet6.AssemblyInfoInputs.cache
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\Dotnet6.AssemblyInfo.cs
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\Dotnet6.csproj.CoreCompileInputs.cache
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\Dotnet6.dll
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\ref\Dotnet6.dll
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\Dotnet6.pdb
+D:\Dotnet6\Dotnet6\obj\Debug\net6.0\Dotnet6.genruntimeconfig.cache
